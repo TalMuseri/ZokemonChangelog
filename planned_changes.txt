@@ -1,0 +1,2 @@
+PLANNED ADDITIONS
+- Add a multiplayer option (The opponent will be another player instead of API)
